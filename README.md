@@ -1,2 +1,2 @@
 # prework-study-guide
-a study guide for course prework.
+a study guide for web development bootcamp course prework.
